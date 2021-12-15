@@ -1,5 +1,5 @@
 # diffbro
-A script (python3) made to help with malware analysis process by comparing a list of APIs called in your sample with the list of different API categories compiled by malapi.io
+A simple script (python3) made to help with malware analysis process by comparing a list of APIs called in your sample with the list of different API categories compiled by malapi.io
 
 In order to use this - you need to have a list of the APIs called by your sample using tools such as PEStudio.
 Save that file in the same directory as diffbro.py
