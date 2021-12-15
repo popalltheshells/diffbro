@@ -1,0 +1,16 @@
+CryptAcquireContextA
+EncryptFileA
+CryptEncrypt
+CryptDecrypt
+CryptCreateHash
+CryptHashData
+CryptDeriveKey
+CryptSetKeyParam
+CryptGetHashParam
+CryptSetKeyParam
+CryptDestroyKey
+CryptGenRandom
+DecryptFileA
+FlushEfsCache
+GetLogicalDrives
+GetDriveTypeA
